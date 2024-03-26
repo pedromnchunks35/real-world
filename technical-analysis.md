@@ -317,3 +317,28 @@
 ![Downward Sloping Accumulation](./assets/downward-slopping-accumulation.png)
 ![Upward Sloping distribution](./assets/upward-slopping-distribution.png)
 ![Downward Slopping distribution](./assets/downward-slopping-distribution.png)
+# Charting Support & Resistance
+- Subjective
+- Choose obvious levels
+- We should hope that others see the same that we are seeing
+  - Best patterns are the patterns that everyone can see
+- High time frames closes are the best Support/Resistance
+  - Monthly,weekly and daily
+- We should search for support and resistance in higher time frames and then we can name them by naming the horizontal lines that we intend to put
+- We dont know if it is support or resistance until the price tests the line because it can break and use the line as support instead of resistance
+![Monthly SR](./assets/monthly-sr.png)
+- This is monthly SR
+- The author starts by creating the mountly SR and then goes for weekly levels
+- The author has a color tier (stronger,mid and weak)
+- Test those levels, this is a bit bias
+- Also we can use the monthly candle to check if we are in a bearish month or in a bullish month
+  - Example:
+    ![Bearish or Bullish](./assets/month-bearish-or-bullish.png)
+    - As we can see here above the green line is bullish and down of it it becomes bearish
+- The same logic happens when we speak about weekly trading or day trading
+  - Example:
+    ![Monthly,weekly and daily bearish or bullish](./assets/monthly-weekly-daily-bearish-or-bullish.png)
+- 1st test = Best
+- 2st test = Good
+- 3st test = BREAK
+- More tests more is likely to break
