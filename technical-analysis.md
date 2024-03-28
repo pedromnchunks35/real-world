@@ -342,3 +342,26 @@
 - 2st test = Good
 - 3st test = BREAK
 - More tests more is likely to break
+# Simple reversal patterns in price action
+![Simple reversal patterns](./assets/simple-reversal-patterns.png)
+- Wycoff is good for smart projects like btc and eth
+- This patterns are good for shit coins because there is no smart money involved
+- We cant expect for the levels to be the same (the touches), this is not perfect but the format is alike (ex: a double top where the right side is slightly above)
+- Its good to see which one appears the most in a given asset
+# Liquidation
+- Always an exact level (above or below wick)
+- Its the stop losses and break out traders below or above a wick
+- Wicks difer from exchange to exchange
+- Look for sweeps (varreduras)
+- Best liquidity levels for short term trading on the frist sweep:
+  - Prev month H/L
+  - Prev week H/L
+  - Monday H/L
+  - Current Week H/L
+![Liquidation mark](./assets/liquidation-mark.png)
+- The liquidation zones can and should be marked on the shadows
+- Liquidation zones are very important because if the market grabs multiple zones of liquidation (multiple stops) then the market has more prob to have a agressive turn into the opposite direction
+- Example:
+![Multiple liquidation zones](./assets/multiple-liquidation-zones.png)
+- The professor says that the many liquidation places it takes the more you know it will go in the opposite direction because the stops got wrecked
+- Liquidations are zones where we can get reversals
