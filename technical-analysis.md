@@ -365,3 +365,22 @@
 ![Multiple liquidation zones](./assets/multiple-liquidation-zones.png)
 - The professor says that the many liquidation places it takes the more you know it will go in the opposite direction because the stops got wrecked
 - Liquidations are zones where we can get reversals
+# False Breakouts
+- `Why do they occur?`
+  - Engineering Liquidity
+    - Market manipulation
+    - False market momentum (people persieving wrong the momentum for the entry)
+  - Lack of interest/volume
+    - Dont having people interested to move it
+    - The volume in that direction starts to have a certain exhaustion
+  - Technical Indicators
+    - Technical indicators bad signals
+    - We should look to more than technical indicators
+  - News Events
+    - People that know the news sooner push the price higher and then when the news got out it backs up
+    - Smart money using retail money for exit liquidity
+  - Time (Wyckoff Phases)
+    - Sometimes there are to much sooner break outs
+    - Acumulation and distribution take time
+    - If there is a breakout and it is to soon, then you know that it will be a fake breakout
+  
