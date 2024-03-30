@@ -383,4 +383,21 @@
     - Sometimes there are to much sooner break outs
     - Acumulation and distribution take time
     - If there is a breakout and it is to soon, then you know that it will be a fake breakout
-  
+# Engineering Liquidity
+- We should try to use the manipulation in our favor
+- Usually the manipulation happens by using FUD and by selling their position which causes dumb money to sell
+- Spring/Failed Breakout/Sweep is a example of it
+- A lot of times, even those that create that manipulation are not certain that something will happen like they intend to
+- `Causes`
+  - Stop Losses
+    - Because it atracs people to go long or short in a range, so thats why whales maintain the price in those ranges
+  - Breakout traders
+    - It atracs more breakout traders so it creates more liquidity in that area and whales love that
+    - More liquidity for smart money
+  - Boredom/LOI
+    - It happens in positions of the range that are not that hot to trade
+  - Profit taking
+    - The take profit of the whales that they later need to buy back in the spring
+- Its effective because it forces voluntary selling
+- Smart money dont want the breakout to occur
+- Return to range also offers bullish momentum as shorts get wrecked (or longs depending of the direction)
