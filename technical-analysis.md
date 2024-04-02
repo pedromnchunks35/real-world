@@ -401,3 +401,43 @@
 - Its effective because it forces voluntary selling
 - Smart money dont want the breakout to occur
 - Return to range also offers bullish momentum as shorts get wrecked (or longs depending of the direction)
+# Pivots
+- Identifying areas where there are high probable areas where we can have good reactions for us to make profit
+- Pivots are technical indicators used to determine potential support and resistance levels in the market
+  - They serve as quick gauge of market sentiment
+  - They were developed by floor traders in equity and commodity exchanges
+  - The idea was to have a quick way to calculate potential turning points for the day ahead, based on the previous day trading data
+## Why traders use it
+- Offer a way to anticipate potential price movements
+- `Market Psychology`
+  - Their self-fulfilling nature makes them a useful tool for traders
+  - A strong weekly candle would lead traders to place more emphasis on that week's pivot levels
+  - Potential areas where the price might hit
+![Pivot areas](./assets/pivots-areas.png)
+## How to measure points
+- `Standard point`
+  - $P=(HIGH+LOW+CLOSE)/3$
+- `Support and Resistance Levels`
+  - First Support $S1=(2*Pivot Point)-High$
+  - First Resistance $R1=(2*Pivot Point) - Low$
+  - Second Support $S2=Pivot Point-(High-Low)$
+  - Second Resistance $R2=Pivot Point + (High - Low)$
+- `Third level because some traders use it`
+  - Third Support $S3=Pivot Point-2*(High-Low)$
+  - Third Resistance $R3=Pivot Point + 2*(High-Low)$
+- `Note`
+  - Rounded numbers have more meaning
+## Logic
+- The logic around this calculations is rooted to the market tendency to revert to the mean or an average price after making swings higher or lower
+- `Pivot Point`
+  - It represetns the 'mean' or average price, serving as baseline for the current period
+- `First Levels (S1,R1)`
+  - Immediate levels for potential reversals, creating a symmetrical range around the pivot
+- `Second Levels (S2,R2)`
+  - Based on the full range of the privot candle,acting as stronger barriers
+  - Analogous to a 1-standard deviation move
+- `Third Levels (S3,R3)`
+  - Extreme levels, similar to a 2-standard deviation move,signaling overextension or significant reversals
+## Indicators
+- Pivot Points Standard
+- Looking to wicks (shadows) we can see liquidation zones where the price failed to either go up or either go down
