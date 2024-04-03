@@ -441,3 +441,22 @@
 ## Indicators
 - Pivot Points Standard
 - Looking to wicks (shadows) we can see liquidation zones where the price failed to either go up or either go down
+## Analyze volume
+### Uses
+- Confirmation of Price Movements
+  - High volume means we are in a strong trend in that direction
+  - Low volume in a certain direction is a bad sign
+- Trend Reversal Signals
+  - High volume in a certain direction and the price is failing to go throught it may mean a reversal
+- Support and Resistance
+  - High Volume can mean Support on a down fall and a resistance when the price is failing to go upwards
+- Breakout and Breakdown confirmation
+  - Price is moving in a certain direction with high value then we have a probable breakout/breakout confirmation
+  - Volume should be above the average
+- Divergence Analysis
+  - Divergence means trend weakness
+- Finding Market Liquidity
+  - Volume gets you to know if there is liquidity to trade on it
+![Breakout volume analysis](./assets/breakout-volume-analysis.png)
+![Technical Analaysis](./assets/divergence-volume-analysis.png)
+![Divergence](./assets/divergence.png)
