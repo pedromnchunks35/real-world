@@ -468,3 +468,37 @@
 - If the market is still on the right direction it should not go further back 0.618
 - The professor does not recommend to buy in 0.318
 - Fib is used to see if the trend is strong
+# Candlesticks analysis
+- Entrys and exists
+- Lowest form of analysis
+- dont make decisions uppon a candle, we require confluence as always
+## Engulfings
+![Candlesticks analysis](./assets/candlesticks-analysis.png)
+- Engulfing means that the candle will surpasse the last one
+  - In the Bullish one we have a green candlestick that goes above the red/closes above the red
+  - In the Bearish we have a red candle that closes down the green
+- Bearish Engulfing happens in the end of a uptrend
+- Bullish engulfing happens in the end of a downtrend
+- Sign of reversal in this candlestick pattern
+- It shows that the direction that the market was going got rejected
+- Use it as a confluence indicator, it gives confidence
+## Hammers
+![Candlesticks hammers](./assets/candlesticks-hammer.png)
+- Happens where there is a strong reversal
+- Happens when there is a high whick
+- In the bulish hammer both red and green hammer are bulish but green is stronger
+- In the bearish side both green and red are bearish but red is stronger
+## Inverse hammer
+![Inverse hammer](./assets/candlesticks-inverse-hammer.png)
+- Upper wick is bigger
+- In a down trend is bullish because it means that sellers were not able to push the price down
+  - Not strong as a hammer
+- In a up trend it means that the price is getting major resistance
+## Doji candlestick
+![Doji candlestick](./assets/doji-candlestick.png)
+- It does not represent a reversal
+- It represents something depending of the context
+- It signals that the market is confused
+- Neutral candlestick
+- It means continuation in a start of uptrend
+- It means reversal in the top of a uptrend
