@@ -460,3 +460,11 @@
 ![Breakout volume analysis](./assets/breakout-volume-analysis.png)
 ![Technical Analaysis](./assets/divergence-volume-analysis.png)
 ![Divergence](./assets/divergence.png)
+# Fibonnaci retracement levels
+- Applying fibonnaci ratio to trading
+- Start it in the lowest point until the maximum
+- The indicator only works because others also see it
+- Should be used with other indicators ofc
+- If the market is still on the right direction it should not go further back 0.618
+- The professor does not recommend to buy in 0.318
+- Fib is used to see if the trend is strong
