@@ -502,3 +502,12 @@
 - Neutral candlestick
 - It means continuation in a start of uptrend
 - It means reversal in the top of a uptrend
+# Order Blocks
+- Candle directly before a impulse
+- Must produce a BOS (Break of structure)
+![Order blocks](./assets/orderer-blocks.png)
+- BOS is where your breakout trend confirmation comes from
+- This breakout moves to areas of high liquidation
+- Order block procedes the break of structure
+- Order block is a area where the price may go to again and suffer liquidation
+  - If we look in the bearish side we see that the area got revisited by a wick
