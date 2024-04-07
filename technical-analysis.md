@@ -511,3 +511,11 @@
 - Order block procedes the break of structure
 - Order block is a area where the price may go to again and suffer liquidation
   - If we look in the bearish side we see that the area got revisited by a wick
+# Breaker Block
+- High probability area,NOT MAGIC
+- Represents trapped traders
+- Start of a new trend = highest probability LH/HL
+- It represents a Invalid Order Block
+![Bulish breaker block](./assets/bullish-breaker-block.png)
+- As you can see we got a bearish order block than came back which created a breaker block
+![Bearish breaker block](./assets/bearish-break-block.png)
