@@ -519,3 +519,21 @@
 ![Bulish breaker block](./assets/bullish-breaker-block.png)
 - As you can see we got a bearish order block than came back which created a breaker block
 ![Bearish breaker block](./assets/bearish-break-block.png)
+- We got a bullish order block that went back and became a bearish breaker block
+# OU/UO (Under over) Double Confirmation
+![Under over confirmation](./assets/under-over-conf.png)
+- In this case we have a under over (head and sholders pattern) that failed to go once again into the resistance
+![Small time frame](./assets/small-time-frame-under-over.png)
+- As you can see we failed the pattern in the 4h chart but the pattern confirmed in the 1h time frame
+- This why it is a double confirmation because we have a filed retest in the 4h and in the 1h we had the same pattern but now below the 4h MSB
+# Price Inefficiencies (Gaps)
+![Gaps](./assets/gaps.png)
+- Usually we have a retest of the previous level when there is a downfall
+- When we dont have the retest, then we have a gap
+## Why do they occur?
+- Sudden repricing due to new info
+- Cascading liquidations caused by leverage (domino effect)  
+- Usually happens by a temporary cause (bad news)
+- This area becomes a high prob to a retest
+![How to draw a gap](./assets/gap-how-to-draw-them.png)
+![How to trade gaps](./assets/how-to-trade-gaps.png)
