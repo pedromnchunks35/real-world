@@ -557,3 +557,7 @@
     - Marking the sweeps is to mark the wicks, the liquidation areas
     ![Setup liquidation zones](./assets/setup-liquidations.png)
 - We should note that we should always trade de main range and not middle ranges inside of the main
+# Trading break outs
+![Breaking out trading](./assets/breakout-trading.png)
+![Option 2](./assets/option2-breakout-confirmation.png)
+- Option 2 is more risky
