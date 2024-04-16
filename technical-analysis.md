@@ -537,3 +537,23 @@
 - This area becomes a high prob to a retest
 ![How to draw a gap](./assets/gap-how-to-draw-them.png)
 ![How to trade gaps](./assets/how-to-trade-gaps.png)
+# Range trading tutorial
+- Not every ranges will form a wycoff theory
+- We just now that price moves into one direction and then consolidates
+- Market are more time consolidating
+- `4 rules for trading ranges`
+  - 75% retracement of previous leg
+    ![Fibo retracement config](./assets/fibo-retracement-configs.png)
+    ![High prob range because it went once again to 75%](./assets/high-prob-range.png)
+  - MSB to confirm new range high
+    ![Msb confirmation](./assets/msb-confirmation.png)
+    - We see that in this case when getting rejected by a possible range high, because it breaked the msb in the middle it confirmed a range within that interval
+    - In case it did not break the MSB it means we are trending upwards
+  - Set our discount & premmium zones
+    - With the fibbonacci retracement, the discount areas are from 0 to 0.25
+    - the premmium zones are between 0.75 and 1
+  - look for liquidity sweeps
+    - We mark up the ranges with line graphic, which means it only sees where the candles closed
+    - Marking the sweeps is to mark the wicks, the liquidation areas
+    ![Setup liquidation zones](./assets/setup-liquidations.png)
+- We should note that we should always trade de main range and not middle ranges inside of the main
