@@ -574,3 +574,21 @@
 - Inefficient impulse move can be multiple candles
 - We notice that in this case the volume was decreasing and when there was selling it got almost always upper the median of the volume
 - The target is the bottom of the inefficiency
+# Identifying short squeezes
+- Short squeeze is when a player shorted a coin and now it is forced to buy it back at a higher price than they sold it for
+- It occurs when there is a sudden increase in demand for the coin, causing the price to rise sharply
+- Its hard to go against the trend
+- The idea of trading this is to enter in a strong movement in the trend by catching it before the end
+- `Why trade a short squeeze`
+  - Nobody wants to sell
+  - Bulls are buying because price goes up
+  - Bears are buying because they are beeing forced to close at a loss
+  - Liquidation engines add support to the move
+- `Once it ends`
+  - There is a decrease of the demand on the coin
+    - Bulls want to take profit
+    - Bears have been fully liquidated
+    - Liquidation engines have no more work to do
+
+![Short squeezes](./assets/short-squeezes-example.png)
+- This is very common and the template is very common as well
