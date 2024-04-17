@@ -1,0 +1,55 @@
+# Overview
+- Knowing ourselfes
+- Betting ourselfes is the enough to beat the market by controlling our emotions
+- Success comes from:
+  - Your habits
+  - Understanding Probabilities
+- High win rate is garbadge, profit its the only thing that matters
+# 2 Principles of Psychology
+- `Why traders loose`
+  - Poor emotional control
+  - Greed/Fear
+  - Impatience
+  - Ego
+## Principles
+- `Principle 1`
+  - Each trade is a new event
+  - The previous trade should not influence the next trade
+  - You should apply always the same rules of the system despite failing too many times
+- `Principle 2`
+  - Consistent trading is a habit
+  - Understanding my own system and following the rules
+  - Getting a system and test it for 30 trades with a concret and precise plan
+  - Use the actual exchange
+## How to lose fomo forever
+- Fear of missing out
+- Ignorance is what causes this decisions
+- `How to avoid fomo`
+  - Educate yourself
+  - Create a Plan
+  - Practise Patience
+  - Limit Exposure to Social Media or News
+  - Practise Mindfulness or Meditation
+  - Consult financial advices
+  - Develop Healthy Coping Mechanisms
+  - Practise Gratitude
+  - Diversify your interests and investments
+  - Acceptance and elf-compassion
+  - Stay Active and maintain physical health
+  - Cultivate offline relationships
+  - Avoid impulse Buying/Investing
+  - Establish a Budget and Stick to It
+  - Seek Professional Help
+  - Set Specific and Realistic Goals
+  - Focus on Long-term Goals
+  - Prioritise Personal Well-being Over Materialistic Pursuits
+  - Emphasise Quality over quantity in experiences
+  - Regular digital detox
+  - `Complete the challenge`
+    - 30 perfect trades
+    - Follow exact rules
+    - Risk max 1$ per trade
+    - Journal every trade (entry,exit,etc...)
+    - If we break the rules we should start again
+    - Have rules and stick with them
+    - Pumps dont matter, dumps dont matter, only systems matter
