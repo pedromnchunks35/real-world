@@ -592,3 +592,24 @@
 
 ![Short squeezes](./assets/short-squeezes-example.png)
 - This is very common and the template is very common as well
+# Chart Patterns
+- There will be no head and sholders patterns because they were already spoked in previous lessons
+- It is not guaranteed
+- Bullish patterns can also become bearish and the opposite as well
+- It is used as a entry and exit
+- Higher time frames trend is more import: Price is everything
+  - Price before the pattern
+  - If we have a bullish pattern in a downtrend, it is likely to not work
+  - Check other factors to work with patterns
+- We should try to gather data from our system along with the chart pattern to see when it works (make a percentage of it)
+- Dont counter trade chart patterns
+- Dont trade against factors
+![Continuation Patterns](./assets/continuation-patterns.png)
+- Wedges are the best because we have a target
+- Stick with a system is the best strategie
+- usually for rectangles the target is the length of the leg before the rectangle sum with the breakout but thats not accurate, we should use supports and resistances
+![Reversal Patterns](./assets/reversal-patterns.png)
+![Ambigous Patterns](./assets/ambigous-patterns.png)
+- This patterns form from triple bottoms or triple bottoms so it becomes ambigous because it has more touches besides the ones that create that pattern so it means that the market is in a indecison
+- Ambiguous patterns should be avoidable in the prof perspective. Atleast if you dont have a system for them
+- So, 3 points is a triple bottom or top but if it takes more it becomes those triangles and are ambiguous
