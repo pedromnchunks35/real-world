@@ -558,6 +558,19 @@
     ![Setup liquidation zones](./assets/setup-liquidations.png)
 - We should note that we should always trade de main range and not middle ranges inside of the main
 # Trading break outs
+## Bullish
 ![Breaking out trading](./assets/breakout-trading.png)
 ![Option 2](./assets/option2-breakout-confirmation.png)
 - Option 2 is more risky
+# 3 Push Reversal
+![3 Push reversal example](./assets/3-push-reversal.png)
+- The inefficient impulse move is when there are a lot of players that got liquidated
+- Its normal that there is a high prob that the price comes to the same place to test it
+- In the sec phase we have multiple lower lows until it gets actually retested
+- In the 3 phase there is a reaction (high volume) and we should not enter in this phase
+- In the 4 phase we have a retest that is not lower than the high volume impulse and thats when we should enter. The top is that inefficient impulse move top
+## Bearish
+![3 push reversal bearish](./assets/3-push-reversal-bearish.png)
+- Inefficient impulse move can be multiple candles
+- We notice that in this case the volume was decreasing and when there was selling it got almost always upper the median of the volume
+- The target is the bottom of the inefficiency
