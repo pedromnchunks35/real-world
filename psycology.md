@@ -53,3 +53,36 @@
     - If we break the rules we should start again
     - Have rules and stick with them
     - Pumps dont matter, dumps dont matter, only systems matter
+## How to kill revenge trading forever
+- There is a bascketball study where there were 3 groups of players
+  - 1 group trained ball throws
+  - 2 group visualized the throw
+  - 3 group did nothing
+- 1 group improved 24%
+- 2 group improved 23%
+- 3 group did not improve
+- `What is revenge trading?`
+  - When a trader attemps to get back at the market after a loss by making more trades
+  - Often this trades have higher risk so they can recover losses quickly
+- `Causes`
+  - Ego
+- `How to avoid it?`
+  - Have trading plan
+  - Set Stop Losses
+  - Understand Risk Management
+  - Manage your emotions
+  - Take Breaks
+  - Use Trading journal
+  - Set Realistic Expectations
+## Become a Perfect Loser
+- Theres nothing wrong with losses if we follow our system
+- Be confortavel with loosing
+- Challenge
+  - Record the screen when we are doing trades to get a looser
+  - After having 1 loose, then we should stop
+  - Write in a paper what are we feeling by loosing the trade
+  - Critical analyze our trade
+# Make it impossible to get liquidated
+## Tips
+- Trade a system with no discretion
+- Keep MAX 20% of your portfolio on a CEX
