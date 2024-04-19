@@ -86,3 +86,71 @@
 ## Tips
 - Trade a system with no discretion
 - Keep MAX 20% of your portfolio on a CEX
+# Risk Management
+- How much should i risk
+  - Nothing until we complete the challenge of the 30 trades
+- `Rules after doing the challenge/proving consistency`
+  - Scalper
+    - Daily loss limit
+  - Day trader
+    - Daily loss limit
+  - Swing trader
+    - 1-5% per trade
+  - Position trader
+    - 1-10% per trade
+  - The daily loss limit is for stopping for a whole day
+    - Typically less than 2% of portfolio in a single day
+    - We cannot risk 2% per trade intraday
+- The portfolio should be something that dont make you starve
+## Facts
+- The average winner should be smaller than you think
+- The win rate can be 32% and we can still make money
+- Your win rate can be 50% (or even less)
+- Losses are essential
+- Manage the risk or the market will do it for you
+- Think about where you are wrong first
+- The risk is always first
+- The worst time statistically to win back your losses is right after the loss
+- We never fully master our emotions,stay vigilant
+- If you have massive winners, you are risking too much
+# Risk Management deep dive
+- Risk reward not reward risk
+- R => Risk => How much in $ or % terms that you risk per trade
+- Example
+  - Entry 40k
+  - Stop loss 39k
+  - Profit target 42k
+  - Risk Reward = 2R(1:2)
+## What risk management really is
+- Understanding max drawdown prob
+- Using hard stop every time
+- Having a soft stop (early invalidation)
+- using a trade planner
+  - This is exacly to know which trades not to take
+  - We can see which conditions do make us winning trades (if i have better high win rate in certain conditions or not)
+## What risk management is not
+- Simply having a stop loss
+- Risking 1-5% of your balance per trade
+- Cutting trades early because you 'feel' its going against you
+  - If there are signs for that then its ok, otherwise no
+- Moving your stop up to Breakeven
+  - Makes sense in higher frames
+  - In a scalp is garbadge
+  - The market usually moves 4% intraday precisely to hunt those stops losses
+## Importance of probabilities
+- We should try to check the probabilities involved in our trades 
+![Probabilities](./assets/probabilities-risk-management.png)
+- Checking at which hours we have more win rate, checking which pattern has more win rate,etc...
+## Respect maths
+![respect maths](./assets/respect-maths.png)
+- Historie moral: risk 1%
+## Prevent you from fucking you
+- Dont change position size
+- Dont let streaks affect the plan
+- Dont trade when you have a lot of streaks.. the probs are against you
+![Rules to stop trading](./assets/rules-to-stop-trading.png)
+- The professor has this parameters for scalping when by making the same mistake x times makes him not trading more on that day
+- We can use this also for swing in multiple days and make yourself stop from trading 1/2 days and reflect about it
+  - Reflect your attitude
+  - Reflect the system
+  - Etc..
