@@ -154,3 +154,55 @@
   - Reflect your attitude
   - Reflect the system
   - Etc..
+# Trade Management
+- Proper Planning
+  - Multiple paths
+  - Clearly written plan
+  - 99% of trade sucess is planning
+  - start with the stop
+- Execution
+  - More executions = more trades = more risk
+  - If plan is correct, executions should be minimal
+- `When winning`
+  - Do fucking nothing
+  - Never revise target for full trade
+  - Partial Profits
+- `When Losing`
+  - Stick to your stop
+  - Dont Average Down
+  - Losers are necessary
+- `Tips`
+  - Try not to adjust your stops and take profits until you understand full your strategy (after experiencing it with a vast number of trades)
+  - It always goes to a given plan
+  ![Plan example](./assets/plan.png)
+  - As we can see here we have multiple prob scenarios that we can expect from this trade
+  - We plan the trade and if it goes wrong we usually take the loss just because its hard to predict the next scenario
+  - As you can see we should cut early in orange because it did a confirmation and it failed
+  - The professor says that we should maximize our profits
+    - Also, partial profits can be a good strategy if we see it getting to a firdst target price
+    - Partial profits is a bit messy because you are taking out possible future profits
+    - Ex: in that example the author said we could take 75% profit in the red zone and then taking the profit upwards
+    - Professor says usually its better to take 100% of profits in those points because its less complicated
+    - In case we want to still pursue partial profits we should go like 75%/80% otherwise we are leaving to much profit in the table
+    - Get over the feeling of losing
+    - Trust your stops
+    - Do not add more position when you are losing
+    - Looses are necessary
+## Pyramiding (compounding)
+- Only works when there is a trend
+- steps
+  - Enter your core position (30-50%)
+  - Set your TP and SL
+  - Wait for the price to reach your profit target
+  - Instead of TP you add to your position
+  - Adjust your stop loss
+  - Repeat steps 3 to 5 if the price continues to trend
+  - Have a strict exit strategy
+  ![Example pyramid strategy](./assets/pyramid-strategy.png) 
+  - You enter in bullish BO but you exit in MBO bearish
+  - Its a good strategy because the worst scenario after the first confirmation is getting a stop into the profit
+  - Also in case we reach one of the legs with a lose we may have other legs profits
+  - Supposing in the first leg things go right we set a stop in the MBO and we exit in profit
+  - Exit when the trends is likely reversing
+  - Put stops in not obvios levels
+  - Getting hunted is just normal
