@@ -206,3 +206,35 @@
   - Exit when the trends is likely reversing
   - Put stops in not obvios levels
   - Getting hunted is just normal
+# The law of Large Numbers
+- DOnt try to win big
+- Whin small and do compounding
+- Dont be greedy and impatient
+- Year 1 we should survive
+- Year 2 we will grow 
+- We should start with 1$ or so just to make the trades cheap since we will most likely loose at the beginning
+# Win rate
+- Win rate = (winning trades/total trades)*100
+- Win rate is a destruction indicator for a novice trader
+- Profitable traders have <50% win rates and still be profitable because of the risk ratio
+# Risk Reward
+- How much we profit from a given risk that we set (risking 1 units to win 1)
+- Great mental model for life
+- Its better to think in risk ration than dolars
+- Risk 100$ for 300$ means a 3R/A
+# Expected Value
+- Helps to understand which trades we should take or not
+- With time we will have the prob of winning a given trade
+- EV = RISK,REWARD AND PROBABILITY
+- EV=P(W)xReward-P(L)xRisk
+- Ex: (60% heads,40% tails)
+  ```
+  EV=(0.6*1)-(0.4*1)=0.2
+  the 1 means the number of trades
+  AKA Positive Expectancy
+  ```
+  ```
+  EV=(0.4*1)-(0.6*1)=0.2
+  AKA Negative Expectancy
+  ```
+- Basicly despite having this probs there was still people beting in the 40% because of streaks
