@@ -238,3 +238,33 @@
   AKA Negative Expectancy
   ```
 - Basicly despite having this probs there was still people beting in the 40% because of streaks
+- Take 100 trades and then think in size
+# Negative expected value (example)
+- CPI pump
+  - pump that got originated by news
+  - Techninal indicators dont work in these days
+- When there is a CPI the technical traders dont trade because technical indicators fail in those times
+- If you think in making your stop more wider  then you are admiting that your settup will not work and with that beeing said you would wait for the price to fall to that point instead
+# Position Sizing
+- If we are newbies we should do the few dolares trades first
+- `Fixed Position Size`
+  - It simplifies decision making but ignores varying levels of risk across trades
+- `Percentage Risk Model (Recommended)`
+  - Risking 2% of account balance on each trade
+  - The best one where we risk for example 2% and we try a risk reward bigger than 2
+# Conditional Probability
+- Likelihood of something hapenning because something happened before
+- We already had lessons about conditional probability 
+- But we should use it with other data
+# The secret to achieve any goal
+- We need to understand that it takes time
+- Macropatience.. doing everything in our reach to accomplish those plans
+- Act with micro speed but macro patience
+- Working hard every day but that goes into a weekly goal that then goes to month goal that goes to a year goal
+- We should focus in cash flow firstly and then when we are more consistent we can use it in trading
+- Working more or working smarter
+- Cut cheap dopamine
+  - social media,alcohol,smoking,excess caffeine,etc..
+- Beeing acountable to others (using your ego un a healthy way)
+  - Saying that we will crush a goal and make it happen
+- We should do goals per day,week and month
