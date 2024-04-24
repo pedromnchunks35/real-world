@@ -268,3 +268,19 @@
 - Beeing acountable to others (using your ego un a healthy way)
   - Saying that we will crush a goal and make it happen
 - We should do goals per day,week and month
+# Be Smart
+## Specific
+- A task should be well-defined and clear
+- We cannot be vague or generalised, it should state EXACLY what needs to be done
+## Measurable
+- You should be able to quantity your stask in an objective way to measure the outcome
+- Attaching a number value to it
+## Achievable
+- Task should be realistic and attainable, not out of reach
+- It should stretch your abilities but still remain possible
+## Relevant
+- Should be important and align with your main goal
+- It should worth your time and appropriate for your current situation
+## Time-specific
+- Should have a clear deadline or timeline
+- This creates urgency and provides a target to work towards
