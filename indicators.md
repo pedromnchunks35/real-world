@@ -27,3 +27,58 @@
 - In this case there is high CVD but as you can see the price does not go up which means there is a divergence
 - There is likely a big resistance in that area
 - In this case we should go short
+# How to trade CVD
+![How to trade CVD](./assets/how-to-trade-cvd.png)
+- agregated spot are all the spot markets agregated
+- Agregated futs is for the futures 
+- Agregated futs bu coin-margined is futures but using another coins besides stable coins like usdt
+- In this example there is a divergence since the spot increased since the beginning but the futures were going down
+- Professor chages the lookback from where it appears to have a clear price trend (ex: the price is decreasing in the most candles)
+- After changing it we check that there is harmony in the sense the CVD is decreasing and the price is decreasing as well which means we should continue in short mode
+![cvd how to trade 2](./assets/cvd-how-to-trade-2.png)
+- If we want to check the behavior after the hammer in the graph we use the tool to check out how many candles we have since the candle after that hammer
+- Then we change the lookback (number of candles) in the CVD
+- With this we can check out the tend and make our confluation of indicators
+- In this case the futures were pushing the price up and the spot is pushing it down
+- Because of this we will most likely have a short squeeze
+- We can do it per exchange and per pair altought is optional
+- We can use probs, with same setup and play with for example the exchange x going wrong y times in that setup (patterns)
+# Open Interest
+- Open Interest = Number of open contracts in a futures market
+- Long Opening + Short Opening = OI Increase
+- Long Closing + Short Opening = OI Neutral
+- Long Closing + Short Closing = OI Down
+- Open Interest = Money Flowing In & Out
+- In derivated contracts there is no market cap limit
+- Volume is different because it only goes up because its the number of transactions
+- Volume is time specific and open interest no
+- The professor is using Agregated open interest
+- If price is going down and the open interest is increasing, its prob there are a lot of shorts
+# How to using OI Analysis to Trade
+- We should look for
+  - Significant changes in open interest
+  - Confluence with price action (trend following)
+  - Divergence from price action (mean reversion)
+  - Confluence with other indicators
+![OI Analysis trade](./assets/oi-analysis-trade1.png)
+![OI Analysis trade](./assets/oi-analysis-trade2.png)
+![OI Analysis trade](./assets/oi-analysis-trade3.png)
+![OI Analysis trade](./assets/oi-analysis-trade4.png)
+# Funding (Funding rate)
+- Mechanism used to make price on spot and futures very close from each other
+- In case there is a positive rate it means that the long positions pay to the short positions the given rate every 8h
+  - And vice-versa in case the opposite occurs
+- 0.0100 is a normal rate, having it bigger or negative may be a reason to take a trade with that in mind
+- We can still go long if for example our position is increasing 15$ and you are paying 4$ of funding
+- Same website to check this
+- Aggregated Predicted Funding Rate AVG for lower time frames (usually the best to use)
+- Aggregated funding rate AVG for higher time frames
+- There are signs to watch 
+  - Having side ways with multiple high funding rates
+  - Its bearish to have side ways with high funding rates
+  - Funding decreasing and price decreasing is a continuation bullish side
+  - Funding decreasing and price is flat, prob bottom
+  - In a bear market, negative funding can mean a big move down (multiple ones)
+  - In a bull market, positive funding can mean a big move upward
+  - dont fight the trend
+  - Focus on the change from positive to negative (if it is fast), usually means a trend change
