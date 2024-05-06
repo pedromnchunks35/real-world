@@ -82,3 +82,24 @@
   - In a bull market, positive funding can mean a big move upward
   - dont fight the trend
   - Focus on the change from positive to negative (if it is fast), usually means a trend change
+# Order flow
+- To price to move we must have more aggression in one side than the other
+- Actors
+  - Taker
+    - Market order
+  - Maker
+    - Limit Order
+## Components
+- Orderbook
+  - Where we have the sell orders and buy orders
+- Market trades
+  - What is actually happening in terms of trades
+  - This is where we can see the aggreession
+- Website for orderbook analysis is `https://exocharts.com/web/` or [click here](https://exocharts.com/web/)
+- tool analysis
+  - blue is buyers aggression
+  - red is sell agression
+- the professor checks out trapped traders in the 1 min timeframe
+  - We can see trapped orders when we have for example a lot of buying and a lot of selling next and vice versa using the footprint of the order flow charts
+- In higher time frames we should check higher ticks (1h for example we should use Tick*100)
+- In a trap its nice to see a double squeeze to trap in double those people
