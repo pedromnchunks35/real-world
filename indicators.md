@@ -103,3 +103,42 @@
   - We can see trapped orders when we have for example a lot of buying and a lot of selling next and vice versa using the footprint of the order flow charts
 - In higher time frames we should check higher ticks (1h for example we should use Tick*100)
 - In a trap its nice to see a double squeeze to trap in double those people
+# Simple Moving Average (MA) & Exponential Moving Average (EMA)
+- Used to analyze price trends
+- MA = smoothed average prices
+  - This has more relevance to traders
+  - 50/100/200 MA common and hidely accepted levels 
+- EMA = more weigth given to recent prices
+  - This reacts faster to price movements
+- Moving average is to understand if we are in a bullish or bearish trend (if it is upward or downard the average movement)
+- EMAS for low time frame trades
+- MA to bigger time frames
+# Trading with Moving Averages (EMA) Bands
+- Ema puts more weight in the more recent days
+- Trends following
+- Timeframe is subjective
+- It works because other people use them as well
+- They are not meant to hold perfectly
+- Losing them often gives the best trades
+- Using it with confluence
+- H4 especifically,observer H4 close
+- MSB + impulse off the bands is particularly strong
+## Fast and slow EMAS
+- Less days included means faster
+- More days included means a slower trend
+- Ex: 12 vs 21
+- Also in case 12 is up 21 we are in a uptrend
+- In case 12 is down 21 we are in a downtrend
+- We should watch when they are crossing each other using the uptrend and downtrend logic
+- It helps to know when to short and when to go long
+![Bear trap emas](./assets/bear-trap-emas.png)
+- As you can see despite the emas are bullish the candles got down of them
+- You should only trade these by shorting when the emas turn actually bearish
+- In this case we could have go long because the cancldes lost the bands but the line have not crossed
+## Strategies that professor once used
+- In the 4h timeframe when there is line crossing in btc we have usually a good reaction/move
+- Prof says that we should try to check how to improve the systems that he gives
+- Another strategy is to use EMA in patterns and in case it is telling the otherwise that the pattern is telling going into that direction (ex: failing of a head and sholders pattern)
+## Failing of a pattern due to EMA
+![Failing head and sholders pattern due to ema](./assets/head-and-sholders-pattern-fail.png)
+- The head and sholders pattern here failed because emas were telling that we were in a bullish trends
