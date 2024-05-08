@@ -142,3 +142,27 @@
 ## Failing of a pattern due to EMA
 ![Failing head and sholders pattern due to ema](./assets/head-and-sholders-pattern-fail.png)
 - The head and sholders pattern here failed because emas were telling that we were in a bullish trends
+# VWAP (Volume Weigthed Average Price)
+- Calculate the average price of a coin considering the volume in a specific time period
+![Vwap](./assets/vwap.png)
+- The blue line is the vwap
+- To see if the coin is upward or downward the average price to know if it is oversold or overselled
+- Standard in trading view it will measure it daily reseting to zero every new cycle
+- We can also have the Yearly VWAP which is the same but yearly
+  - In the binance tradiew view its all on VWAP
+## Usage of VWAP
+- Upward VWAP go long
+- Downward VWAP go short
+- Same as EMA's but this one has the volume considered
+![Vwap other lines](./assets/VWAP-other-lines.png)
+- As you can see we have a normal distribution in this indicator and it tells us that most of the movements are between 1SD movements, the 2SD are less probable and we can spot a good trade with those on
+- We can avoid bad trades with these because we know that 95.44% of the trades dont go far from 2SD
+- We can trade the extremes
+# Bollinger Bands
+- Indicator to measure price volatibility
+- Track possible reversals
+- It has 1 MA in the middle and 2 deviation lines in the extremes
+## Usage
+- Understand visually volatibility of a coin
+- We can see where it is very volatile and avoid such trades
+- If it is very narrow you should avoid trading because we want squeezes
