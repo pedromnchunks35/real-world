@@ -166,3 +166,40 @@
 - Understand visually volatibility of a coin
 - We can see where it is very volatile and avoid such trades
 - If it is very narrow you should avoid trading because we want squeezes
+# Keltner Channel
+- Used to identify possible price breakouts and volatibility in the market
+- Similar to the other indicators
+- Middle band is EMA
+- The other bands here are used with average true range
+- Standard ATR=10 (Average range between high and low prices over a specific period)
+- Less volatile than Bollinger
+- Breakout upwards means strength and breakout downward means weakness (the outher lines)
+- We use it to check when a breakout is real or fake
+![Keltner channel](./assets/keltner-channel.png)
+- We want the channel to be respected for a extended period and only then in case of a breakout we should follow a trend
+- In this case the stop would be the upper line
+- We can do this for a short or for a long case the case is the opposite
+- When the price is respecting the channel again you should exit
+# Volume Analysis (Volume profile / Market Profile)
+![Volume gaps](./assets/volume-gaps.png)
+- In this scenario we see a gap when there are multiple candles of the same type (negative for example)
+- We should assume that price wants to fill those gaps
+  - Price wants to be normally distributed usually
+    - The reason? We dont know why
+      ![Normal distribution](./assets/normal-distribution.png)
+![Volume gaps 2](./assets/volume-gaps-2.png)
+- It happens in all timeframes
+- When it starts to fill then the higher chances it will actually fill
+![Volume gaps 3](./assets/volume-gaps-3.png)
+- Professor uses `SVP` (Session volume profile)
+  - In defs we can activate POC which is a way to see the higher price point in terms of volume
+    - This is good to see the points where there is more interest to enter and exit a given trade
+    - We can understand that the more we go far from that point the more people get squeezed and also where we can expect a support or resistance
+![Gaps fill SVP](./assets/gaps-fill-svp.png)
+![Support and resistances with svp](./assets/supports-and-resistance-with-svp.png)
+- When we have a lot of volume and there is still a failure to go in that direction, that means there were a lot of people that got recked
+- In the resistance when it failed to go higher there was higher prob that we were about to go down
+- Wait for gaps and expect to fill them, it is not complicated
+  - In the support/resistance areas if it fails to surpass or to maintain we go into the direction of failure
+- We can also draw gaps with vprp
+![Gaps with vprp](./assets/gaps-with-vprp.png)
