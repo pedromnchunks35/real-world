@@ -203,3 +203,40 @@
   - In the support/resistance areas if it fails to surpass or to maintain we go into the direction of failure
 - We can also draw gaps with vprp
 ![Gaps with vprp](./assets/gaps-with-vprp.png)
+# RSI
+- Measures the strength relatively
+- More important in higher time frames
+- Levels to watch out are 70 and 30
+- RSI is based on the candle body, ignore the wicks
+- The author starts by analyzing the weekly and then daily
+- Divergencies are not frequent
+- We can still use the rsi for lower time frames but its less relevant (if in 4h we have reasons to go short we should go short even if in  minute we have reasons to go long)
+- Higher time frames > Lower ones
+## Divergencies
+![Bearish rsi](./assets/bearish-rsi.png)
+- This happens when the price is increasing but the RSI is decreasing and thats a bearish signal
+![Bullish rsi](./assets/bullish-rsi.png)
+- On the opposite idea we have a bullish rsi when the price is decreasing and the rsi is increasing
+## Strategies
+- Catching this divergences
+- Doing this to btc and then catch the move effect of btc in the alt coins
+- You can also catch the 30 level and go long until it reaches 70
+- We have a RSI with average movement called RSI Div-KT
+  - Good to see because it is more active
+- We must be carefull because after hitting firstly the 70 its probable that the price keeps rising causing a divergencie
+- The best trades are when we spot divergencie in weekly or daily and then in the 4h try to enter the extreme points and go in the opposite direction
+- When a BS or MBS occurs we should check if there is divergence between rsi and the price and only go short/long when it goes to 30 or 70 (or closer)
+# MACD (Moving Average Convergence Divergence)
+![Macd](./assets/MACD.png)
+- Created to make it easier to understand
+- Meant to trend following
+# Momentum
+- Used to measure speed and strength of price movements
+- Nice to check possible trend reversals
+- Should be used along with trend indicators
+- Bellow zero is bearish
+- Above zero is bullish
+![Momentum indicator](./assets/momentum-indicator.png)
+- We should look for places where it is close to zero
+- Should be used in confluence with other indicators
+- Good with KC and bollinger bands
