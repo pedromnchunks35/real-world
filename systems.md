@@ -1,0 +1,32 @@
+# Finding Active Coins
+- You are only as good as the coins you trade
+- We require volatility to make money
+- A coin/token that you can trade calls itself active coin
+- There are coins that only are volatile when they are hyped
+  - This can be hype in a concrete token
+  - Can be hype on a new narrative (ex: native)
+  - They are subjective
+  - To go against this subjective we use tools
+- In tradiew view we can see `crypto pairs` which helps us out on that
+- We should look the volatibility
+  - Dont look to the ones with the most volatibility
+  - We should look for the ones that have volatibility and measurable movements
+- We should filter the garbadge by filter by CEX (binance,ByBit and COINBASE)
+- We still need to make sure that there is volume because by having only volatibility it may mean that the ative itself is easy to move the price because there are no people trading it
+- After filtering the screen weill become much better (if you know some of those coins that also something good to observe)
+- We should then check out the volume
+  - We should have a standard for minimum volume
+  - Higher volume means higher participation and more opportunities to trade
+- Filter to atleast 1M of Volume (in the 24h in USD)
+  - You still need to look at relative vol
+    - Put the relative volume 2.19 (would be the best), because if lets say in a normal day we traded 20M, then relative volume will be such that in the current day we will have 20M*2.19 = 40M
+# Trading view crypto pair screener
+- We did as we previously saw
+  - We removed almost all the headers leaving only the VOLUME,RELATIVE VOL,VOLATIBILITY and EXCHANGE
+  - We putted a minimum of 1M in volume
+  - We putted RELATIVE VOL upper than 1 atleast
+  - We selected only three exchanges: Binance,ByBit and Coinbase
+- We should also check the project
+- Check funding data
+- Check community
+- Check release of tokens

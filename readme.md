@@ -4,3 +4,4 @@
 ## [Technical Analysis](technical-analysis.md)
 ## [Psicology](psycology.md)
 ## [Indicators](indicators.md)
+## [Systems](systems.md)
