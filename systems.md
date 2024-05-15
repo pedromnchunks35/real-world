@@ -30,3 +30,28 @@
 - Check funding data
 - Check community
 - Check release of tokens
+# Backtesting
+- Using historical data to see how well a strategy works
+- Markets are ever changing, so we should always adapt the system and avoid bias
+- We can do manual and automate backstage
+- Only backtest timeframes and times that you will be watching the market
+  - Trying to make the system in the hours we can actually check the market otherwise it will be irrealist (ex: checking out every 8pm hour candles or simply selecting timeframes where we can check the market)
+- Market bar replay is payed
+  - We have 30 days free
+- We should aim for 100 tests
+## Manual Backtesting
+- It should always start with a question
+  - `Is VWAP or 12/21 EMA cross a better confluence tool for trend shift on the BTC intraday timeframe?`
+- After answering to that questions simply define more terms
+- We must set execution rules for this backtesting
+- Learn how to backtest simply, you dont need to grab a winner right ahead
+- We should only put the rules within that internal
+  - Theres a case in the video where if we continued in the trend the profits would be better but if we cant be seeing it it is hard to backtesting it because we are out of the computer
+- Run the tests, compare and add or remove variables
+- Dont be lazy
+- [Add this script to select the timeframes](https://www.tradingview.com/script/rhdChhth-Prof-Michael-G-Backtesting-Time-Periods/)
+- [Sheet for the backtest](https://docs.google.com/spreadsheets/d/1ieSMq46Hx8gkp6SURtdJ5x91BppMP4oE7zkEwiMZTUs/edit?usp=sharing)
+# Not all trades are equal
+- Systems do not perform the same in different assets, environments and states
+- Every trader has its own style 
+- Some patterns deserve more risk to be taken and others less, this is related to the trade size that we already spoke about
