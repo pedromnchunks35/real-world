@@ -95,4 +95,35 @@
   - 8. Post trade review
     - Review your own trade
     - Check what got wrong
-      
+# Position and flow
+- Position and flow (Best confluence system for any strategie)
+- In markets, logic is retarded
+- Market does not care about the opinion of influencial people
+- Price is what matters the most
+- Its hard beeing a contrarian trader (going against what people is doing)
+- Its easier to go with the trend, entering when everyone is entering in that same direction
+## What is Position & Flow
+- Complementary factors of each other
+- `Positioning`
+  - How many traders are getting long & short
+  - Where are they entering & exiting
+- `Flow`
+  - Who is being more aggressive? Buyers or Sellers
+## How to measure
+![positioning vs flow](./assets/positioning-and-flow.png)
+- Open interest is to check how many contracts are opened and in which direction
+- We should check this to get unbiased opinions
+- This indicators are best for Low time vision
+- This is important for swing and day traders
+- Our job is to time the reversal
+## What to look
+- When open interest rises it means new traders are entering
+- CVD futures
+  - Seeing to each side it is getting aggressive
+- CVD Spot
+  - Seeing to each side it is getting aggressive but for spot
+- Funding rate
+  - It needs context with a whole analysis
+![What to look](./assets/what-to-look.png)
+- In this case the context is that price is rising,open interest is rising so there are new traders entering, cvd is aggressive for short which means they will get squeezed and make price go up,CVD Spot is rising and funding rate is increasing so prices will increase
+- Basicly we use this to go into the path with least resistance 
