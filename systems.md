@@ -55,3 +55,44 @@
 - Systems do not perform the same in different assets, environments and states
 - Every trader has its own style 
 - Some patterns deserve more risk to be taken and others less, this is related to the trade size that we already spoke about
+# Entry techniques
+- We must have a clearly defined condition
+  - Must be objective/systematic
+- Best confirmation is candle closes (breaking MSB or BS)
+- We can also buy when there is a retest
+![Entry](./assets/entry.png)
+- You can enter 50% on candle close after MSB and another 50% on the retest
+# Exit techniques
+- Reasons to entry are the same as the exit when we see a bearish MSB for example
+- We can also do the same as the 50% rule in the entry
+- Dont forget to have a stop loss
+# Daily Trading Routine
+- Routine example
+  - 1. Read news
+      - Coindesk/Blockworks (Crypto)
+      - Bloomberg/WSJ (Macro)
+      - Trends and macro news are important
+  - 2. Scan for active coins
+      - Scan for active coins
+      - If it is on the news and also in the scanner => 2 indicators of movement
+  - 3. Chart Analysis
+      - Checking out the coins that we founded in step 1&2
+      - Chart from High time frames to Low time frames 
+        - Checking weekly trends/supports/etc..
+      - Check if the charts justify more research
+  - 4. Find your focus coins
+      - put alarms in sensitive zones in case they exist (ex: Price moving to a sensitive area)
+      - Check their twitter
+      - Check the telegram
+  - 5. Enter trades
+    - Check Risk/Radio and enter a trade
+    - Take a screenshot of the trade on trading view and you can paste the link of the trade in the spreadsheet
+  - 6. Live trading
+    - Manage open trades
+    - Exit trades
+  - 7. Log the trades
+    - Get all the information, including comments for that trade,risk,score for the risk done,execution,profit or loss,etc..
+  - 8. Post trade review
+    - Review your own trade
+    - Check what got wrong
+      
