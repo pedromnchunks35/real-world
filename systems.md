@@ -95,6 +95,59 @@
   - 8. Post trade review
     - Review your own trade
     - Check what got wrong
+# Winners workflow #1 - Daily Journal
+- How to set yourself up like a pro
+- By writing in the journal we can understand in which situations i should not trade
+  - By example the teacher reached the conclusion that it is not good to trade for him at weekends
+## Part 1: Daily Journal
+- We must feel the pain of the loss
+- Record all experiencest
+1. Morning thoughts
+- Important to have toughts as long as you wake up
+- 2 parts:
+  - Opinion
+    - Training intuition & general market knowledge
+    - x will happen because of y
+    - subjective
+  - Facts  
+    - Things that happened over night
+    - Events that are relevant for today
+2. Daily programming
+- Repetition develops skill
+- Focus on RISK and GOALS
+- RISK
+  - Put a maximum amount that we can loose for a day, in case we loose those we should stop trading
+- GOALS
+  - Prayer
+    - Pray to god for good choices
+  - Affirmations
+    - Affirm that you will do compound options
+3. Morning market analysis
+- Make chart analysis for the daily
+- Do it using our system that should evolve over time
+- Just start
+- 15 minutes max usually
+4. Trades
+- Update the positions in the journal
+  - For open positions explain why is still valid
+  - Explain why we closed a position
+  - Track any new trades
+  - Fill the sheet
+5. Narrative
+- Overall primary narrative
+- Changes from yesterday
+- What is new today
+- Themes to research
+- check which narrative will influence your systems
+6. End of day review
+- Trade recap
+- Emotional score
+- Mistakes 
+- Wins & learns
+7. POWER update
+- If we feel powerful or not
+- Check the pattern for the day (why are we feeling powerful or not)  
+- Hack your brain using those patterns
 # Position and flow
 - Position and flow (Best confluence system for any strategie)
 - In markets, logic is retarded
