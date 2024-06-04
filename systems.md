@@ -180,3 +180,41 @@
 ![What to look](./assets/what-to-look.png)
 - In this case the context is that price is rising,open interest is rising so there are new traders entering, cvd is aggressive for short which means they will get squeezed and make price go up,CVD Spot is rising and funding rate is increasing so prices will increase
 - Basicly we use this to go into the path with least resistance 
+# Tokeconomics
+- Low flow 
+  - Launching with only 20% of the max supply
+  - This is to make it easier to pump
+  - The token may have a mechanism to only allow to sell x time after we buy
+- Check the current supply in percentage to the max
+- Check when they will release more tokens
+- Check to who they are releasing because releasing itself does not mean anything, sell pressure does 
+# Trading bootcamp
+- We must have a plan
+  - We should have a long term plan
+- The problem is not earning the money, is to maintain it
+- Dont rush it
+## Stages
+- White Belt
+  - Tasks we must do every day, week, months with questions to answer
+  - To upgrade the teacher must give you a new belt
+  - We must have proven work
+- Blue Belt
+  - Develop wining systems
+  - trading live
+  - 2 major stages
+- Purple Belt
+  - Stack skills
+  - Increase sizes
+  - Good trades for you and those to avoid
+- Brown Belt
+  - Consistent profits
+  - Learn advance strategies to acumulate wealth
+- Black Belt
+  - Benefits only to those that are apart of it
+# White Belt
+## Bootcamp Opt
+- Even if you already have the money you still need to learn how to be a rich man
+- Learn how to trade first and only then add size
+- Watch documentaries about the best traders / market people of the world
+- Proof-of-work
+  - You cant shortcut the work
