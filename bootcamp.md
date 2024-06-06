@@ -21,3 +21,7 @@
 - SYSTEMS APPROVAL ONLY IN THIS CHAT
 - The captain or the michael should see the system before begin backtestings
   - We cant be promoted without this
+# Day 1
+- Learn part time and earning capital on full time
+- Building habits 
+- We should put all of our daily tasks on the daily tasks
