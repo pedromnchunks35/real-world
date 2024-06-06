@@ -218,3 +218,23 @@
 - Watch documentaries about the best traders / market people of the world
 - Proof-of-work
   - You cant shortcut the work
+##  Plan
+- Prove consistency
+- No live trading is required
+- Learn to set goals and achieve them
+- Learn to create trading rules (build simple system)
+- Backtesting
+## Tasks
+- What Michael streams every day (mentorship opportunity)
+- Study the core lessons in order
+- Complete goal crushers every week
+- Create simple system
+- Complete 100 backtests
+## Promotion Criteria
+- Complete core lessons & assignments
+- Complete 4 weeks of goal crushers with 7/10 pass rate & proof uploaded
+- Verified your test system in #white-belt-systems
+- 100 backtests completed with proof
+- Blue belt is awarded by Michael
+## Expected time 
+- 4-12 weeks
