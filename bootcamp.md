@@ -25,3 +25,17 @@
 - Learn part time and earning capital on full time
 - Building habits 
 - We should put all of our daily tasks on the daily tasks
+# Day 2
+- Reflect on the outcome
+- Unexpected situations may lead to beeing unproductive
+- Putting the daily tasks in a certain order and then just doing it
+- Its better to do the every day tasks first and only then give your time for those that request it
+- In the goal crusher we must put a achieable goal
+- The goal should be in a 3 year frame
+- Goal should be measurable
+- Remember that sometimes we must do what we dont like for then making what we want
+- You should not want dolares, you should want freedom
+- Focus in what we must do to be free
+- For example, we need 250k per year to satisfy our hobbi / freedom wish, so we should do x amount of money to spend x years to be free that x years
+- Imagine what you would do with the money (travelling around the world,dating the hotest girls,spending time with your family,etc..)
+  - Try to imagine something that is not material
