@@ -39,3 +39,4 @@
 - For example, we need 250k per year to satisfy our hobbi / freedom wish, so we should do x amount of money to spend x years to be free that x years
 - Imagine what you would do with the money (travelling around the world,dating the hotest girls,spending time with your family,etc..)
   - Try to imagine something that is not material
+# Day 3
