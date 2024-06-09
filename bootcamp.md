@@ -40,3 +40,18 @@
 - Imagine what you would do with the money (travelling around the world,dating the hotest girls,spending time with your family,etc..)
   - Try to imagine something that is not material
 # Day 3
+# Day 4 time management
+## Moods
+- Try to have 2 moods
+  - Creative mood (when not working)
+    - When you plan what you should do
+    - Try not to bring the phone
+    - Think in how to solve problems
+    - Think in business
+    - Gather ideas
+  - Work mood (working)
+    - It is something more repetive
+    - Be more like a robot
+## Productivity
+- Try to have a busy day so that way you install a urgency state to make things done
+- We should try to fill or day with tasks oriented to our goals and let the unecessary tasks behind
