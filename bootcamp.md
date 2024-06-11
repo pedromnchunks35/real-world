@@ -63,3 +63,25 @@
 - The goal is somewhat specific, but adding more details will help. Ensure you outline exactly what you want to achieve. Your goal is not measurable. Ensure you include specific numbers and targets to quantify your success. The goal seems unrealistic with the current plan. Detailed planning and clear steps are necessary for big goals. Your goal doesn't seem to be relevant. Why are you doing this? What is the purpose? Answer this, as it's the biggest thing to keep you going when times get tough. The goal lacks a defined timeframe. Setting a clear deadline is essential to track progress.
 ### Answer change
 - I want to reach 90kg lean in 2 years and becoming a profitable trader such that i can do multiple compounding and do 1k in 1 year after the 3 year bootcamp. To achieve this i will train 2h per day every day and eat more than the required calories that my body needs to sustain himself +- 3000 kcal changing the body part that will have more enphasis every 1 month. Gaining the weigth will be easy, i need to go from 82 kg to 90, the problem then is to maintain the weigth and loose fat. In terms of the profitable trader part i will do atleast 1h of bootcamp every day and trying to make the most money possible in my job as possible and invest the most i can in the most basic and secure cryptocurrencies using the medium price strategy,planning to have more 15k (i can put like 1000-1500 euros per month or more because i expect to get a raise within those years)invested in terms of what i put it in and not the value itself with valorization or devaluerization. The plan is to follow along the bootcamp, knowing very well how to build systems, starting them by risking firstly 1 euro and then increasing my hand as the odds of sucess grow upper. Obs: I cannot put a timestamp in the bootcamp i just know that it takes 3 years if we spend atleast 1h per day. Part of the objetive is simply climbing up the ranks where the first takes 30 days and the rest depends of the task that i will be doing. The 1 euro risk takins should happen in the brown belt so i expect to becoming profitable to reach blackbelt and increase my hand so i can make 10% of lets say 10k per month by compounding 1k per month risking 1% of 10k it would be like 100 euros per trade and i would need to make like 15 trades per month, this depends of the type of system i will be bulding so it may be wrong to put it this way but i mean around 15 trades because i expect to know when to raise my hand.I have more objectives within this 3 years but those are the most specific and i think that the others may not fit to be here. The reason for achieving this objectives: freedom, making my parents proud and take care of those that i care about.
+# Day 6
+- No feedback yet, moving to day 7
+# Day 7
+- Beeing wealth does not mean having a lot of money
+- Be smart with your money
+- Dont spend money to impress others
+- Its not cool to spend your money when you dont have it
+- Money flows for those that know how to use it
+- Learn to respect money
+- You should trust that you will bring more money and beeing grateful for what you have
+- Think how can your money be more spended
+- You dont actually want money, you want to be free
+- You are not free if your earn a lot but you cannot do the things you like
+- Think in how you can grow the money 10 times over
+- Build yourself until you can simply create money from tiny air
+- Money and time relation is what makes you a better person
+- We should cultivate positive toughts even thought there are negative situations occuring
+- Failure is something we need
+- Become a positive person and do not be anoyed by the others success
+- Ignore people that try to make you quit or think that your attitudes are wrong
+- Dont give a shit about negative people
+- For everything negative there is a positive thing, negativity is fuel to get something positive. Reverse it
