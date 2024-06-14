@@ -117,3 +117,60 @@ MANDATORY: DELETE ALL EXCHANGE APPS FROM YOUR PHONE. Trade only on your computer
 ## Abstract
 - You go exponential in the beginning for the early stage and then go logarithmic
 - Loose your linear mindset, go exponential and then go logarithmic (same as btc)
+# Day 9
+- Differences between a pro and a amateur
+## Pro vs Amateur (RED PILL)
+- You as pro want statistic proof that a system works
+- a Pro has more than 100 trades or backtestings that proove that the system works
+- A pro learns how to loose
+- Losses = valuable data
+## Trading Strategies
+- Directional
+- Relative Strength
+- Arbitrage
+- Market Neutral
+## Trading strategie
+- Directional
+  - Bet it go up or down
+- Relative Strength
+  - Betting long one asset and short another
+## Type trading
+- Discretionary
+  - Perceptions
+  - Narrative
+  - Counscioness
+- Systematic
+  - Trade by rules
+  - Setups
+- Automated
+  - Coding the strategy/Systematic rules
+- High Frequency
+  - Milisecond trades
+  - Connection time
+  - Low latency
+## Trading Styles
+- Scalp
+  - Low time frame trades
+- Day
+  - Same day
+- Swing
+  - 2 day to 2 weeks
+- Position
+  - Multiple weeks till years
+## Best type of trading
+- For beginners the best is Systematic,Directional Trader
+## Recommended Path
+- Beeing a directional trader
+- Be Systematic and hybrid(Systematic that can become then Discretion with experience, also we can become in the future Systematic,Discretion + Automation)
+## Systematic Trading
+- Fixed rules
+- Can be tested and replicated
+- Clearly defined Risks
+- No discretion or subjective opinions
+- Example
+  - Buy when 50MA crosses 200MA
+  - Sell when 200MA crosses 50MA
+- Use discreption after having experience
+  - Extremely arogant if you dont have experience
+  - Example
+    - Not trading a system because a macro-indicator is happening
