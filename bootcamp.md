@@ -174,3 +174,61 @@ MANDATORY: DELETE ALL EXCHANGE APPS FROM YOUR PHONE. Trade only on your computer
   - Extremely arogant if you dont have experience
   - Example
     - Not trading a system because a macro-indicator is happening
+# Day 10
+- Getting into the core lessons
+- MetaLearning
+  - How to learn better
+## Metalearning
+- We should understand how we learn better
+- Mike has a website to tell you how you are better at learning
+- We must critical review where we were wrong and correct it/do better
+- Study strategies/chats
+- Put it in practise
+- Live trading
+- Try to share ideas in the white belt chat
+- Teaching others
+- Journalism
+- You should understand how you get more info
+```
+1) Self-Assessment: 
+Write out your strengths & weaknesses (in all areas of life, not just trading). Once you have done this you now have a list of skills you have and the areas you need to improve. 
+
+2) Learning Styles Inventory: 
+Take a questionnaire that shows you exactly how you learn best. You can then focus on the right learning style for you (video, audio, reading, practical).
+
+3) Learn from Mistakes: 
+Keep a database of your past trades, winners and losers, and then review them every day or week. This is ESSENTIAL for every trader.
+
+4) Deliberate Practice: 
+I will break down the lessons into specific applied practice, where you can test them out and reflect on the results. When I give you a task, DO THE WORK!
+
+5) Peer Learning: 
+Discuss the lessons and your trading journey with fellow students, using the -belt-lessons and -chat. Don't be shy, if you don't contribute you are missing a key opportunity to learn!
+
+6) Journaling: 
+Absolutely essential for every trader. You must maintain a trading journal, a simple google sheet is fine, where you document your backtesting, trades, outcomes, and keep a note of your thoughts, emotions and reasons for taking the trades. This will help you spot biases and flaws in your system, and over time MASSIVELY boost your Win Rate. I will show you how to do this when the time is right.
+
+7) Teaching Others:
+As a Bootcamp student, you are the best of the best inside TRW Trading Campus. I encourage you to help out those who are struggling, especially if you've been through the same issue as them. This will 100x your learning, and deepen your own mastery of trading.
+```
+- Results
+  ```
+  Strong Kinesthetic
+  People with your preference like:
+  practical exercises, experiences, examples, case studies, trial and error, things that are real,...
+  strategies: https://vark-learn.com/strategies/kinesthetic-strategies/
+  -> Take action
+  -> Solve problems practically
+  -> Recall experiences
+  -> Real life examples
+  -> Measure outcomes
+  -> Team Work
+  -> Using all of my senses
+  -> Practise practise practise
+  ```
+💪 If you scored high on KINESTHETIC:
+Practice Trading: Paper trade as you go through the lessons. This will allow you to practice your trading strategies in real-time market without risking actual money.
+
+Role-Playing: Find a fellow student who's also a kinesthetic learner. You both can then talk about hypothetical trading scenarios and discuss potential strategies and outcomes.
+
+Teach Others: Explaining what you've learned to someone else or discussing it will help you understand it more deeply.
