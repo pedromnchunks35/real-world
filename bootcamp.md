@@ -232,3 +232,16 @@ Practice Trading: Paper trade as you go through the lessons. This will allow you
 Role-Playing: Find a fellow student who's also a kinesthetic learner. You both can then talk about hypothetical trading scenarios and discuss potential strategies and outcomes.
 
 Teach Others: Explaining what you've learned to someone else or discussing it will help you understand it more deeply.
+# Day 11
+- The teacher recommends us to use trading view
+- Its a class from the classes that we already had
+- We are making revision
+- CRL+R to center the chart
+- We can use `Paper trading` which is something that we have in the trading panel for us to work with fake money
+# Day 12
+- Accumulations & Distribution
+# Day 13
+- Trend following and Mean revision
+- Pay attention to the trend because there must only be a trend change when there is a full pullback in the candle instead of staying in the upper or the downest place (ex: trend upwards, it stops going up but does not retrace until the minimum of the upward cadle.. that means it will go upward)
+- Ranges is where we spend more time
+- Try to do trading in ranges
