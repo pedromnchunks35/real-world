@@ -245,3 +245,7 @@ Teach Others: Explaining what you've learned to someone else or discussing it wi
 - Pay attention to the trend because there must only be a trend change when there is a full pullback in the candle instead of staying in the upper or the downest place (ex: trend upwards, it stops going up but does not retrace until the minimum of the upward cadle.. that means it will go upward)
 - Ranges is where we spend more time
 - Try to do trading in ranges
+# Day 14
+- waves
+- Trend following
+- ranges
