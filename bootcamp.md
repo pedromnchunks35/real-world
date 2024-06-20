@@ -249,3 +249,14 @@ Teach Others: Explaining what you've learned to someone else or discussing it wi
 - waves
 - Trend following
 - ranges
+# Day 15
+- Market laws
+- Wyckoff Theory and Dow Theory
+- Supply & demand only stops price (limit orders)
+- Supply & demand are passive , buyers and sellers are aggressive
+- Having lack of supply, price increases
+- Having lack of demand, price decreases
+## How to measure supply & demand
+- Low timeframe (minutes) = order flow & harmonic divergence matrix
+- Mid timeframe (hours/days) = Harmonic divergence matrix (third law effort vs result, a indicator created by the teacher)
+- High timeframe (weeks/months) = Price action structures (market structures)
