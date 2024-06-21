@@ -260,3 +260,14 @@ Teach Others: Explaining what you've learned to someone else or discussing it wi
 - Low timeframe (minutes) = order flow & harmonic divergence matrix
 - Mid timeframe (hours/days) = Harmonic divergence matrix (third law effort vs result, a indicator created by the teacher)
 - High timeframe (weeks/months) = Price action structures (market structures)
+# DAY 16
+- Law of cause and effect
+  - Acumulation/Distribution = Cause
+  - Uptrend/Downtrend = Effect
+  - Smart Money and Dumb money
+  - Causes are constructed by Smart money
+- Macro events are causes that can bring effects
+  - Think how causes may influence the project
+  - If that is relevant
+  - You cannot thing right away that a event is good or bad (ex: release of a new update)
+- Harmony and Divergence
