@@ -271,3 +271,5 @@ Teach Others: Explaining what you've learned to someone else or discussing it wi
   - If that is relevant
   - You cannot thing right away that a event is good or bad (ex: release of a new update)
 - Harmony and Divergence
+# Day 17
+- Mandatory test
