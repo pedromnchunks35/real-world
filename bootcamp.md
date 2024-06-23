@@ -245,3 +245,45 @@ Teach Others: Explaining what you've learned to someone else or discussing it wi
 - Pay attention to the trend because there must only be a trend change when there is a full pullback in the candle instead of staying in the upper or the downest place (ex: trend upwards, it stops going up but does not retrace until the minimum of the upward cadle.. that means it will go upward)
 - Ranges is where we spend more time
 - Try to do trading in ranges
+# Day 14
+- waves
+- Trend following
+- ranges
+# Day 15
+- Market laws
+- Wyckoff Theory and Dow Theory
+- Supply & demand only stops price (limit orders)
+- Supply & demand are passive , buyers and sellers are aggressive
+- Having lack of supply, price increases
+- Having lack of demand, price decreases
+## How to measure supply & demand
+- Low timeframe (minutes) = order flow & harmonic divergence matrix
+- Mid timeframe (hours/days) = Harmonic divergence matrix (third law effort vs result, a indicator created by the teacher)
+- High timeframe (weeks/months) = Price action structures (market structures)
+# DAY 16
+- Law of cause and effect
+  - Acumulation/Distribution = Cause
+  - Uptrend/Downtrend = Effect
+  - Smart Money and Dumb money
+  - Causes are constructed by Smart money
+- Macro events are causes that can bring effects
+  - Think how causes may influence the project
+  - If that is relevant
+  - You cannot thing right away that a event is good or bad (ex: release of a new update)
+- Harmony and Divergence
+# Day 17
+- Mandatory test
+# Day 18
+- Speaking about the habits and about the system built that we dont require to be profitable
+- What we need
+  - Price
+  - Volume
+  - Than we can do it hehe
+- Just build systems that spot harmony and divergence
+  - Trend traders use harmony
+  - Reverse traders use divergence
+- Trade break outs or mean reverses
+  - Breakout
+    - It breaks out a swing high or swing low
+  - Mean reverse
+    - Identify a prob extreme range and trade against it
