@@ -287,3 +287,22 @@ Teach Others: Explaining what you've learned to someone else or discussing it wi
     - It breaks out a swing high or swing low
   - Mean reverse
     - Identify a prob extreme range and trade against it
+# Day 19
+- Systems and how to build them
+## Core Requirements of a System
+1. Trade Type
+2. Risk Management
+3. When to Enter
+4. When to Exit
+## Trade types
+- Breakout
+  - Price reaches high or low
+  - Price beaks and hold above or below this level with confirmation
+  - You enter long or short based on the system
+- Mean Reversion
+  - Find prob range
+  - Wait price to find extreme
+  - Confirm high prob range
+  - Long or Short in the direction of reversal
+## Important
+- Use stop losses and take profits

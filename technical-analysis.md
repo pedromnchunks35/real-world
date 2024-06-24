@@ -192,27 +192,27 @@
 - Divergence weakness in the trend (reversal coming)
 - Divergence is a trap
 ## Harmony
-|Combinations of efforts|
-|--|
-|High volume + impulse|
-|Low volume + correction|
-|High volume + wide range|
-|Low Volume + narrow range|
-|High volume + level break & hold|
-|Low volume + level fails to break|
-|Rising wave in a impulse|
-|Declining wave in a correction|
+| Combinations of efforts           |
+| --------------------------------- |
+| High volume + impulse             |
+| Low volume + correction           |
+| High volume + wide range          |
+| Low Volume + narrow range         |
+| High volume + level break & hold  |
+| Low volume + level fails to break |
+| Rising wave in a impulse          |
+| Declining wave in a correction    |
 ## Divergence
-|Combination of efforts|
-|-|
-|Low volume + impulse|
-|High volume + correction|
-|Low volume + wide range|
-|High volume + narrow range|
-|High volume + level fails to break|
-|Low volume + breaks|
-|Declining wave in a impulse|
-|Rising wave in correction|
+| Combination of efforts             |
+| ---------------------------------- |
+| Low volume + impulse               |
+| High volume + correction           |
+| Low volume + wide range            |
+| High volume + narrow range         |
+| High volume + level fails to break |
+| Low volume + breaks                |
+| Declining wave in a impulse        |
+| Rising wave in correction          |
 ## Harmony VS Divergence
 ![Harmony vs divergence](./assets/harmony-vs-divergence.png)
 - As you can see when we get above average volume of buying it makes the prices go higher
