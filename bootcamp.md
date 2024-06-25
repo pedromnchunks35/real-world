@@ -306,3 +306,17 @@ Teach Others: Explaining what you've learned to someone else or discussing it wi
   - Long or Short in the direction of reversal
 ## Important
 - Use stop losses and take profits
+# Day 20
+- Breakout
+  - We wait for a confirmed BOS breakout (candle closes down the bos)
+  - Usually it bounces inside again and we enter in that bounce
+    - It should not surpass the confirmed BOS candle
+  - You enter in the bounce and you exit in a reverse of trend
+- Trends
+  - We dont trade breakouts in this case
+  - We should wait for a trend to form in order to enter
+  - Basicly it enter a range and drops which gives more prob that when entering another range it will breakout once again in that direction
+  - We choose a timeframe but we work based on that timeframe
+- Trend shift
+  - BOS in the oposite direction of the last BOS
+  - Focus on swing lows/high and ignore the interim ones
