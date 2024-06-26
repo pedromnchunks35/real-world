@@ -320,3 +320,17 @@ Teach Others: Explaining what you've learned to someone else or discussing it wi
 - Trend shift
   - BOS in the oposite direction of the last BOS
   - Focus on swing lows/high and ignore the interim ones
+# DAY 21
+## Range rules
+- 75% retracements of previous leg (use fibbo retracement)
+  - A retracements in this range is high prob range
+- MSB to confirm new range high
+- Set our discount & premmium zones
+- Look for liquidity sweeps
+- Theres a high prob when there is a fake breakout
+![Range rules 2](./assets/range-rules-2.png)
+  - After this we should move to candles and mark liquidity zones in the extremes
+## Notes
+- A video with doubts
+- Redraw range levels? Nop, we can interpret it as a freak breakout or something that confirms the range
+- Follow your rules
