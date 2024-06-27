@@ -334,3 +334,10 @@ Teach Others: Explaining what you've learned to someone else or discussing it wi
 - A video with doubts
 - Redraw range levels? Nop, we can interpret it as a freak breakout or something that confirms the range
 - Follow your rules
+# Day 22
+- Explaining back-testing
+- The backtesting must be done in the timeframe we are in front of the computer
+- We should back-test 100 times
+- Set rules before simply
+- Try to put our confluency indicators
+![Backtesting sheet](./assets/back-testing-sheet.png)
