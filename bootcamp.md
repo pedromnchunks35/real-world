@@ -341,3 +341,10 @@ Teach Others: Explaining what you've learned to someone else or discussing it wi
 - Set rules before simply
 - Try to put our confluency indicators
 ![Backtesting sheet](./assets/back-testing-sheet.png)
+# Day 23
+- If you want to learn back-testing you should try with a simple system
+- Be objective
+- We will most likely go with mean reversion strategy
+- Use always the 0.75 rule for spoting ranges
+- We should update our ranges 
+- In this type of ranging the teacher is not making the ranges using the candle closes.. its using the wicks
