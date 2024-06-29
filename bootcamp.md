@@ -348,3 +348,5 @@ Teach Others: Explaining what you've learned to someone else or discussing it wi
 - Use always the 0.75 rule for spoting ranges
 - We should update our ranges 
 - In this type of ranging the teacher is not making the ranges using the candle closes.. its using the wicks
+# Day 24
+- We should do manual back-testing
