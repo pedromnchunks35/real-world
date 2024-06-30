@@ -350,3 +350,6 @@ Teach Others: Explaining what you've learned to someone else or discussing it wi
 - In this type of ranging the teacher is not making the ranges using the candle closes.. its using the wicks
 # Day 24
 - We should do manual back-testing
+# Day 25
+- Still waiting for feedback
+- We shouldnt not change our strategy
