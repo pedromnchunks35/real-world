@@ -353,3 +353,5 @@ Teach Others: Explaining what you've learned to someone else or discussing it wi
 # Day 25
 - Still waiting for feedback
 - We shouldnt not change our strategy
+# Day 26
+- We need to choose a asset with a lot of history data
