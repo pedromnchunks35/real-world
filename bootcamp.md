@@ -355,3 +355,6 @@ Teach Others: Explaining what you've learned to someone else or discussing it wi
 - We shouldnt not change our strategy
 # Day 26
 - We need to choose a asset with a lot of history data
+- In case we cannot do 100 backtests, then we should go lower in timeframe
+# Day 27
+- More advices
