@@ -358,3 +358,7 @@ Teach Others: Explaining what you've learned to someone else or discussing it wi
 - In case we cannot do 100 backtests, then we should go lower in timeframe
 # Day 27
 - More advices
+# Day 28
+# Day 29
+# Day 30
+- Literally just do the backtesting
